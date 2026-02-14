@@ -155,7 +155,7 @@ GEM
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
       netrc (~> 0.8)
-    rexml (3.4.0)
+    rexml (3.4.2)
     rqrcode_core (1.2.0)
     rr (3.1.1)
     rspec (3.13.0)
